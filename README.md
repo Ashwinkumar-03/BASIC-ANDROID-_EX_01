@@ -107,13 +107,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-
-![oncreate](https://github.com/Ashwinkumar-03/BASIC-ANDROID-_EX_01/assets/118663725/36b8eb4e-e394-4f33-b024-44bb785e0f07)
-![onstart](https://github.com/Ashwinkumar-03/BASIC-ANDROID-_EX_01/assets/118663725/fa1a5980-f511-4dda-9f50-f8c93bc81591)
-![onpause](https://github.com/Ashwinkumar-03/BASIC-ANDROID-_EX_01/assets/118663725/632069cf-bdf8-495a-b840-904f1fd20bc3)
-![onstop](https://github.com/Ashwinkumar-03/BASIC-ANDROID-_EX_01/assets/118663725/4000071c-7bc6-417d-84bb-63971bcfa801)
-![ondestroy](https://github.com/Ashwinkumar-03/BASIC-ANDROID-_EX_01/assets/118663725/24cfb77f-38c8-40d1-ae54-968bf282c862)
-
+![WhatsApp Image 2024-03-09 at 11 54 42_78ce26e6](https://github.com/Ashwinkumar-03/BASIC-ANDROID-_EX_01/assets/118663725/915f46d6-f32e-4902-8f1a-cb13b875ce50)
+![WhatsApp Image 2024-03-09 at 11 54 42_1ebf9812](https://github.com/Ashwinkumar-03/BASIC-ANDROID-_EX_01/assets/118663725/272cbb7d-785c-40ee-99a1-e9b24a5f9d6f)
+![WhatsApp Image 2024-03-09 at 11 54 41_8138a8c5](https://github.com/Ashwinkumar-03/BASIC-ANDROID-_EX_01/assets/118663725/f8687358-5237-4874-b5b4-12d17388bf5f)
 
 ## RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
